@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51c09aa34613d9ad28ea58df54df7486",
+    "revision": "e72e85d68b0e21e62028626fd133d496",
     "url": "/book-shop/index.html"
   },
   {
-    "revision": "35fcfca86707f3fcc27e",
+    "revision": "ae8997ca022aaaeeac64",
     "url": "/book-shop/static/css/main.4b1cbeb0.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/book-shop/static/js/2.c785aae2.chunk.js"
   },
   {
-    "revision": "35fcfca86707f3fcc27e",
-    "url": "/book-shop/static/js/main.95ee5216.chunk.js"
+    "revision": "ae8997ca022aaaeeac64",
+    "url": "/book-shop/static/js/main.1f75fc99.chunk.js"
   },
   {
     "revision": "b322f89a07ffdfbe24b2",
